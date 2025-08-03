@@ -15,7 +15,7 @@
 - 🎓 4th-year IT student specializing in Mobile and Web development
 - 💡 Currently building *EduTaskAI*, an AI-powered mobile app to make student life easier
 - 📚 Passionate about learning new tools, especially in Flutter, Firebase & AI
-- 🧠 Always curious — from building quiz apps to exploring game physics in Unity
+- 🧠 Always curious... from building quiz apps to exploring game physics in Unity
 - 🎯 Future goal: Build tech that solves real-world student challenges
 - 📫 How to reach me *rethabilemotlatsi25@gmail.com*
 - ⚡ Fun fact *I enjoy making people laugh, dancing, and solving brain teasers*
@@ -58,7 +58,7 @@
 
 - ⏳ Deadlines stress me out, but I always get the job done
 - 🎵 90s love songs are my coding playlist
-- 😂 I post funny stuff on Facebook — sometimes it's chaos, sometimes it's gold
+- 😂 I post funny stuff on Facebook... sometimes it's chaos, sometimes it's gold
 
 
 
