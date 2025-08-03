@@ -1,9 +1,9 @@
 <h1 align="center">
-  <span style="color:#1E90FF">Hello Hii, Rethabile Motlatsi here 👋</span>
+  Hello Hii! Rethabile Motlatsi here 👋
 </h1>
 
 <h3 align="center">
-  <span style="color:#FFA500">A passionate IT student & FrontEnd Developer from South Africa</span>
+  A passionate IT student & FrontEnd Developer from South Africa
 </h3>
 
 <p align="center">
