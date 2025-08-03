@@ -1,5 +1,5 @@
 <h1 align="center">Hello Hii, Rethabile Motlatsi here 👋</h1>
-<h3 align="center">A passionate IT student & FrontEnd Developer from South Africa 🇿🇦</h3>
+<h3 align="center">A passionate IT student & FrontEnd Developer from South Africa</h3>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A90B&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;IT+Student+%7C+Future+Tech+Leader;Building+apps+that+make+life+easier" alt="Typing SVG" /></p>
 
