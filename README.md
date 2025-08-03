@@ -1,5 +1,10 @@
-<h1 align="center">Hello Hii, Rethabile Motlatsi here 👋</h1>
-<h3 align="center">A passionate IT student & FrontEnd Developer from South Africa</h3>
+<h1 align="center">
+  <span style="color:#1E90FF">Hello Hii, Rethabile Motlatsi here 👋</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#FFA500">A passionate IT student & FrontEnd Developer from South Africa</span>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A90B&center=true&vCenter=true&width=435&lines=IT+student+who+builds+real+projects;Solving+student+problems+with+code;Learning+Flutter,+Firebase+%26+Unity;Making+apps+that+actually+help+people" alt="Typing SVG" />
@@ -12,7 +17,7 @@
 - 📚 Passionate about learning new tools, especially in Flutter, Firebase & AI
 - 🧠 Always curious — from building quiz apps to exploring game physics in Unity
 - 🎯 Future goal: Build tech that solves real-world student challenges
-- - 📫 How to reach me *rethabilemotlatsi25@gmail.com*
+- 📫 How to reach me *rethabilemotlatsi25@gmail.com*
 - ⚡ Fun fact *I enjoy making people laugh, dancing, and solving brain teasers*
   
 
