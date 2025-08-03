@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hello Hii, Rethabile Motlatsi here 👋</h1>
 <h3 align="center">A passionate IT student & FrontEnd Developer from South Africa 🇿🇦</h3>
 
