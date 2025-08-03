@@ -14,23 +14,32 @@
 - 🎯 Future goal: Build tech that solves real-world student challenges
 - - 📫 How to reach me *rethabilemotlatsi25@gmail.com*
 - ⚡ Fun fact *I enjoy making people laugh, dancing, and solving brain teasers*
+  
 
 ### 🛠 Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
 </p>
+
 
 ### 🚀 Featured Projects
 
 - 📱 [Matric Quiz App](https://github.com/your-quiz-link) – Practice exams in quiz format using Flutter + Firebase
   
+
 
 ### 📊 GitHub Stats
 
@@ -39,11 +48,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RethaBile25&layout=compact&theme=tokyonight)
 
 
+
 ### 😄 Fun Facts
 
 - ⏳ Deadlines stress me out, but I always get the job done
 - 🎵 90s love songs are my coding playlist
 - 😂 I post funny stuff on Facebook — sometimes it's chaos, sometimes it's gold
+
 
 
 ### 📬 Let’s Connect!
